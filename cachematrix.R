@@ -1,4 +1,6 @@
 
+
+##  the file includes two functions as below
 ##  the mackCacheMatrix function contains a list of four functions,get,set,getinv,setinv
 
 makeCacheMatrix <- function(x = matrix()) 
